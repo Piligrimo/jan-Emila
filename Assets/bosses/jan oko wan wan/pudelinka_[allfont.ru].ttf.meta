@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c20d7ba387e4ed44381f09b59e23d720
+timeCreated: 1488480292
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pudelinka
+  fontNames:
+  - Pudelinka
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

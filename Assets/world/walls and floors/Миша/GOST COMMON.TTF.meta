@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5cdf06800dd65714c9d8e2720794cae7
+timeCreated: 1486485418
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GOST Common
+  fontNames:
+  - GOST Common
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 271b41640462c774c86452b1ac5f2ecf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
